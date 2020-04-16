@@ -1,5 +1,5 @@
 ###Solutions:
-I also have a screenshot for my process, including final solutions. You can check the answer with it!
+I also have a screenshot for my process, including final solutions. You can check the answer with it!The file named "solution.png"
 
 ### How do I do the QA/QC balance check?
 To check if the chemical reactions (contained in the ``Reactions.dat`` file) are balanced, issue the command:
