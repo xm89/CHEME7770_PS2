@@ -1,5 +1,5 @@
-## PS3 Solution
-This solution is slightly different from your PS3 (it does not include the metabolite data from Park et al in the bounds) so your estimated fluxes may be a little different.
+###Solutions
+I also have a screenshot for my process, including final solutions. You can check the answer with it!
 
 ### How do I do the QA/QC balance check?
 To check if the chemical reactions (contained in the ``Reactions.dat`` file) are balanced, issue the command:
@@ -22,3 +22,4 @@ Note: this solution does not consider the metabolite levels in the bounds, so yo
 
 ### Requirements
 The ``Solve.jl`` solution script requires the ``GLPK`` package to the FBA problem. See [GLPK](https://github.com/JuliaOpt/GLPK.jl) for details.
+
